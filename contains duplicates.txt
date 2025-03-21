@@ -1,0 +1,19 @@
+class Solution {
+    public boolean containsDuplicate(int[] nums) {
+       Arrays.sort(nums);
+	   boolean op=false;
+	   for(int i=0;i<nums.length-1;i++){
+	       int c=0;
+	       if(nums[i]==nums[i+1]){
+	           c++;
+	       }
+	       if(c>0){
+	           op=true;
+	           break;
+	       }else{
+	           op=false;
+	       }
+	}
+    return op;
+}
+}
