@@ -1,0 +1,17 @@
+class Solution {
+    public int findComplement(int num) {
+        String binary = Integer.toBinaryString(num);
+        StringBuilder sb=new StringBuilder();
+        for(char ch:binary.toCharArray()){
+            if(ch=='0'){
+                sb.append('1');
+            }
+            if(ch=='1'){
+                sb.append('0');
+            }
+        }
+        String a=sb.toString();
+        int op=Integer.parseInt(a, 2);
+        return op;
+    }
+}
