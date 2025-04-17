@@ -1,0 +1,59 @@
+import java.util.*;
+
+public class Hello { 
+    public static void main(String[] args) { 
+        Scanner sc = new Scanner(System.in);
+        String[] sa = sc.nextLine().split(" ");
+        List<Integer> list = new ArrayList<>();
+        
+        for (String s : sa) {
+            list.add(Integer.parseInt(s));
+        }
+        
+        List<Integer> primes = new ArrayList<>();
+        List<Integer> odds = new ArrayList<>();
+        List<Integer> evens = new ArrayList<>();
+        
+        for (int num : list) {
+            if (isPrime(num)) {
+                primes.add(num);
+            } else if (num % 2 == 0) {
+                evens.add(num);
+            } else {
+                odds.add(num);
+            }
+        }
+        
+        // Sort each category
+        Collections.sort(primes);
+        Collections.sort(odds);
+        Collections.sort(evens);
+
+        // Print the results in the required order
+        printList(primes);
+        printList(odds);
+        printList(evens);
+    }
+    
+    // Function to check if a number is prime
+    private static boolean isPrime(int n) {
+        if (n <= 1) return false;
+        if (n == 2) return true;  // 2 is the only even prime number
+        if (n % 2 == 0) return false;  // Exclude even numbers
+        
+        for (int i = 3; i <= Math.sqrt(n); i += 2) {
+            if (n % i == 0) return false;
+        }
+        return true;
+    }
+
+    // Function to print list with single space separation
+    private static void printList(List<Integer> list) {
+        for (int i = 0; i < list.size(); i++) {
+            System.out.print(list.get(i));
+            if (i < list.size() - 1) {
+                System.out.print(" ");
+            }
+        }
+    }
+}
