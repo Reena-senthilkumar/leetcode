@@ -1,0 +1,23 @@
+class Solution {
+    public boolean canAliceWin(int[] nums) {
+        int bob=0;
+        int alice=0;
+        int bob1=0;
+        int alice1=0;
+        for(int num:nums){
+            if(num>9){
+                bob+=num;
+            }else{
+                alice+=num;
+            }
+        }
+        for(int num:nums){
+            if(num>9){
+                alice1+=num;
+            }else{
+                bob1+=num;
+            }
+        }
+        return alice>bob  || alice1>bob1;
+    }
+}
