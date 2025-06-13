@@ -15,4 +15,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/Reena-senthilkumar/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1797-goal-parser-interpretation](https://github.com/Reena-senthilkumar/leetcode/tree/master/1797-goal-parser-interpretation) |
 <!---LeetCode Topics End-->
