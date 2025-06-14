@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/Reena-senthilkumar/leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Reena-senthilkumar/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Reena-senthilkumar/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/Reena-senthilkumar/leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
