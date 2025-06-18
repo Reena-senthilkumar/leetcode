@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Reena-senthilkumar/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1944-truncate-sentence](https://github.com/Reena-senthilkumar/leetcode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/Reena-senthilkumar/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Reena-senthilkumar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Reena-senthilkumar/leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/Reena-senthilkumar/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1944-truncate-sentence](https://github.com/Reena-senthilkumar/leetcode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Reena-senthilkumar/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Reena-senthilkumar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
