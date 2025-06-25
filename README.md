@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Reena-senthilkumar/leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Reena-senthilkumar/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Reena-senthilkumar/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Reena-senthilkumar/leetcode/tree/master/0782-jewels-and-stones) |
 | [1217-relative-sort-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/1217-relative-sort-array) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Reena-senthilkumar/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Reena-senthilkumar/leetcode/tree/master/1916-find-center-of-star-graph) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
