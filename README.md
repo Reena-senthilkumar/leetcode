@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0724-find-pivot-index) |
 | [1217-relative-sort-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/1217-relative-sort-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Reena-senthilkumar/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0414-third-maximum-number) |
 | [1217-relative-sort-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Reena-senthilkumar/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
