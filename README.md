@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Reena-senthilkumar/leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Reena-senthilkumar/leetcode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Reena-senthilkumar/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2010-check-if-word-equals-summation-of-two-words](https://github.com/Reena-senthilkumar/leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/2128-reverse-prefix-of-word) |
