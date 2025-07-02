@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0724-find-pivot-index) |
 | [1217-relative-sort-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/1217-relative-sort-array) |
+| [1319-unique-number-of-occurrences](https://github.com/Reena-senthilkumar/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Reena-senthilkumar/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Reena-senthilkumar/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Reena-senthilkumar/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Reena-senthilkumar/leetcode/tree/master/0782-jewels-and-stones) |
 | [1217-relative-sort-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/1217-relative-sort-array) |
+| [1319-unique-number-of-occurrences](https://github.com/Reena-senthilkumar/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Reena-senthilkumar/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Reena-senthilkumar/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
