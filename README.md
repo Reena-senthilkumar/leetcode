@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Reena-senthilkumar/leetcode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Reena-senthilkumar/leetcode/tree/master/0822-unique-morse-code-words) |
 | [1205-defanging-an-ip-address](https://github.com/Reena-senthilkumar/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Reena-senthilkumar/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Reena-senthilkumar/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1651-shuffle-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Reena-senthilkumar/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Reena-senthilkumar/leetcode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Reena-senthilkumar/leetcode/tree/master/0822-unique-morse-code-words) |
 | [1217-relative-sort-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/1217-relative-sort-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Reena-senthilkumar/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/Reena-senthilkumar/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Reena-senthilkumar/leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Reena-senthilkumar/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
