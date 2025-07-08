@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/Reena-senthilkumar/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/Reena-senthilkumar/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/Reena-senthilkumar/leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Reena-senthilkumar/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1944-truncate-sentence](https://github.com/Reena-senthilkumar/leetcode/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Reena-senthilkumar/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Reena-senthilkumar/leetcode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Reena-senthilkumar/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Reena-senthilkumar/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2561-number-of-distinct-averages](https://github.com/Reena-senthilkumar/leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Reena-senthilkumar/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Reena-senthilkumar/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Prefix Sum
 |  |
