@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Reena-senthilkumar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2406-decode-the-message](https://github.com/Reena-senthilkumar/leetcode/tree/master/2406-decode-the-message) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Reena-senthilkumar/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Reena-senthilkumar/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2406-decode-the-message](https://github.com/Reena-senthilkumar/leetcode/tree/master/2406-decode-the-message) |
 | [2561-number-of-distinct-averages](https://github.com/Reena-senthilkumar/leetcode/tree/master/2561-number-of-distinct-averages) |
 ## Sorting
 |  |
