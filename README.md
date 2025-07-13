@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2102-find-the-middle-index-in-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Reena-senthilkumar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2561-number-of-distinct-averages](https://github.com/Reena-senthilkumar/leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Reena-senthilkumar/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Reena-senthilkumar/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Reena-senthilkumar/leetcode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/Reena-senthilkumar/leetcode/tree/master/2556-convert-the-temperature) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Reena-senthilkumar/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Reena-senthilkumar/leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
