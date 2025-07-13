@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Reena-senthilkumar/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2491-smallest-even-multiple](https://github.com/Reena-senthilkumar/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Reena-senthilkumar/leetcode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/Reena-senthilkumar/leetcode/tree/master/2556-convert-the-temperature) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -191,5 +192,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/Reena-senthilkumar/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Reena-senthilkumar/leetcode/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
