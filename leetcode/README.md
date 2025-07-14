@@ -6,7 +6,7 @@ But today — I’m solving problems daily, understanding logic deeply, and enjo
 
 ---
 
-### 🚀 Day 50: 158 Problems Solved
+### 🚀 Day 50: 150 + Problems Solved
 
 What began as hesitation is now a habit — and here’s how I made it happen:
 
@@ -14,7 +14,7 @@ What began as hesitation is now a habit — and here’s how I made it happen:
 
 ## 👩‍💻 My Workflow
 
-🔹 Every day, I ask **ChatGPT** for **easy-level LeetCode problems** with direct links.  
+🔹 Every day, I ask **ChatGPT** for **LeetCode problems** with direct links.  
 🔹 I visit the problem page and **try solving it on my own** first.  
 🔹 If I get stuck:  
  — I check the **top 3 GitHub solutions** for patterns.  
