@@ -5,10 +5,10 @@ class Solution {
         for(int i:arr){
             map.put(i,map.getOrDefault(i,0)+1);
         }
-           Set<Integer> set=new HashSet<>(map.values());
-        // for(Map.Entry<Integer,Integer> entry:map.entrySet()){
-        //     set.add(entry.getvalue());
-        // }
+           Set<Integer> set=new HashSet<>();
+        for(Map.Entry<Integer,Integer> entry:map.entrySet()){
+            set.add(entry.getValue());
+        }
         return map.size()==set.size();
     }
 }
