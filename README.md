@@ -122,6 +122,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 ## String
 |  |
 | ------- |
+| [1894-merge-strings-alternately](https://github.com/Reena-senthilkumar/leetcode/tree/master/1894-merge-strings-alternately) |
 | [3396-valid-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
@@ -131,4 +132,8 @@ This is just the beginning — and I’m so excited for what’s ahead.
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0605-can-place-flowers) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/Reena-senthilkumar/leetcode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
