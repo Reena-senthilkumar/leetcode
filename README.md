@@ -104,6 +104,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | ------- |
 | [0605-can-place-flowers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0724-find-pivot-index) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Reena-senthilkumar/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reena-senthilkumar/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -148,4 +149,8 @@ This is just the beginning — and I’m so excited for what’s ahead.
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0392-is-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
