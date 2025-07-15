@@ -102,6 +102,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reena-senthilkumar/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -126,4 +127,8 @@ This is just the beginning — and I’m so excited for what’s ahead.
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
