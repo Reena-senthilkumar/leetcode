@@ -123,6 +123,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Reena-senthilkumar/leetcode/tree/master/1894-merge-strings-alternately) |
 | [3396-valid-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/3396-valid-word) |
@@ -137,9 +138,14 @@ This is just the beginning — and I’m so excited for what’s ahead.
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Reena-senthilkumar/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
