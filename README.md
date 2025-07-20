@@ -185,4 +185,5 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Reena-senthilkumar/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Reena-senthilkumar/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Reena-senthilkumar/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Reena-senthilkumar/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
