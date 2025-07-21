@@ -141,6 +141,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0605-can-place-flowers) |
+| [1448-maximum-69-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1448-maximum-69-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +151,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1448-maximum-69-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
