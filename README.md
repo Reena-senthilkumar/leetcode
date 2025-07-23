@@ -109,6 +109,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0907-koko-eating-bananas](https://github.com/Reena-senthilkumar/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Reena-senthilkumar/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reena-senthilkumar/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Binary Search
@@ -136,6 +137,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [1146-greatest-common-divisor-of-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1454-remove-palindromic-subsequences](https://github.com/Reena-senthilkumar/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1894-merge-strings-alternately](https://github.com/Reena-senthilkumar/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3396-valid-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
