@@ -143,6 +143,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [1454-remove-palindromic-subsequences](https://github.com/Reena-senthilkumar/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1894-merge-strings-alternately](https://github.com/Reena-senthilkumar/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Reena-senthilkumar/leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1954-replace-all-digits-with-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Reena-senthilkumar/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3396-valid-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/3396-valid-word) |
