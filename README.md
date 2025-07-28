@@ -113,6 +113,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2210-find-target-indices-after-sorting-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reena-senthilkumar/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2714-left-and-right-sum-differences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Binary Search
 |  |
@@ -186,6 +187,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0724-find-pivot-index) |
+| [2714-left-and-right-sum-differences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Bit Manipulation
 |  |
 | ------- |
