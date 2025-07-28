@@ -3,13 +3,13 @@ class Solution {
         int result[]=new int[nums.length];
         int arr1[]=new int[nums.length];
         int arr2[]=new int[nums.length];
-        int index=0;
+        //array 1 that mean left sum
         int sum=0;
-        arr1[index++]=sum;
-        for(int i=0;i<nums.length-1;i++){
-            sum=sum+nums[i];
-            arr1[index++]=sum;
+        for(int i=0;i<nums.length;i++){
+            arr1[i]=sum;
+            sum+=nums[i];
         }
+        //array 2 that mean rightsum
         int sum1 = 0;
 for (int i = nums.length - 1; i >= 0; i--) {
     arr2[i] = sum1;
