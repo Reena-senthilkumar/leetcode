@@ -112,6 +112,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2190-count-common-words-with-one-occurrence](https://github.com/Reena-senthilkumar/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reena-senthilkumar/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -169,6 +170,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0680-valid-palindrome-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1454-remove-palindromic-subsequences](https://github.com/Reena-senthilkumar/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1894-merge-strings-alternately](https://github.com/Reena-senthilkumar/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Math
 |  |
 | ------- |
@@ -200,6 +202,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0208-implement-trie-prefix-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Reena-senthilkumar/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Design
 |  |
 | ------- |
@@ -225,4 +228,8 @@ This is just the beginning — and I’m so excited for what’s ahead.
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Reena-senthilkumar/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Enumeration
+|  |
+| ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
