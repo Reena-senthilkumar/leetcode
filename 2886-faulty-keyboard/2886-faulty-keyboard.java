@@ -2,11 +2,11 @@ class Solution {
     public String finalString(String s) {
         StringBuilder sb=new StringBuilder();
         for(char ch:s.toCharArray()){
-            if(ch=='i'){
-                sb.reverse();
+            if(ch!='i'){
+                sb.append(ch);
             }
             else{
-                sb.append(ch);
+                sb.reverse();
             }
             
         }
