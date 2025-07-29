@@ -155,6 +155,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2401-count-asterisks](https://github.com/Reena-senthilkumar/leetcode/tree/master/2401-count-asterisks) |
 | [2881-split-strings-by-separator](https://github.com/Reena-senthilkumar/leetcode/tree/master/2881-split-strings-by-separator) |
+| [2886-faulty-keyboard](https://github.com/Reena-senthilkumar/leetcode/tree/master/2886-faulty-keyboard) |
 | [3396-valid-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
@@ -239,4 +240,8 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2870-longest-alternating-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/2870-longest-alternating-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2886-faulty-keyboard](https://github.com/Reena-senthilkumar/leetcode/tree/master/2886-faulty-keyboard) |
 <!---LeetCode Topics End-->
