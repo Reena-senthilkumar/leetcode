@@ -11,9 +11,7 @@ class Solution {
                 zero++;
             }
         }
-        sb.append("1".repeat(one-1));
-        sb.append("0".repeat(zero));
-        sb.append("1");
+        sb.append("1".repeat(one-1)).append("0".repeat(zero)).append("1");
         return sb.toString();
     }
 }
