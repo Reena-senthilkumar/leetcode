@@ -158,6 +158,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2881-split-strings-by-separator](https://github.com/Reena-senthilkumar/leetcode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Reena-senthilkumar/leetcode/tree/master/2886-faulty-keyboard) |
 | [3019-furthest-point-from-origin](https://github.com/Reena-senthilkumar/leetcode/tree/master/3019-furthest-point-from-origin) |
+| [3055-maximum-odd-binary-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3396-valid-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
@@ -172,6 +173,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [1448-maximum-69-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1448-maximum-69-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Reena-senthilkumar/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2756-buy-two-chocolates](https://github.com/Reena-senthilkumar/leetcode/tree/master/2756-buy-two-chocolates) |
+| [3055-maximum-odd-binary-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,6 +190,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [1448-maximum-69-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1448-maximum-69-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Reena-senthilkumar/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/Reena-senthilkumar/leetcode/tree/master/2383-add-two-integers) |
+| [3055-maximum-odd-binary-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Dynamic Programming
 |  |
 | ------- |
