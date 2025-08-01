@@ -108,6 +108,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0724-find-pivot-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/Reena-senthilkumar/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Reena-senthilkumar/leetcode/tree/master/0941-sort-array-by-parity) |
+| [0965-unique-email-addresses](https://github.com/Reena-senthilkumar/leetcode/tree/master/0965-unique-email-addresses) |
 | [1018-largest-perimeter-triangle](https://github.com/Reena-senthilkumar/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Reena-senthilkumar/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Reena-senthilkumar/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -153,6 +154,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0965-unique-email-addresses](https://github.com/Reena-senthilkumar/leetcode/tree/master/0965-unique-email-addresses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1283-reformat-date](https://github.com/Reena-senthilkumar/leetcode/tree/master/1283-reformat-date) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -228,6 +230,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
+| [0965-unique-email-addresses](https://github.com/Reena-senthilkumar/leetcode/tree/master/0965-unique-email-addresses) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Reena-senthilkumar/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Design
