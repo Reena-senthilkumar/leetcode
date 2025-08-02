@@ -6,5 +6,5 @@ class Solution {
 	            temp++;
 	        }
 	    }
-return (int)((temp *100.0)/s.length());    }
+return (int)((temp /s.length())*100.0);    }
 }
