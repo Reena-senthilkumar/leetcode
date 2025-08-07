@@ -171,6 +171,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1454-remove-palindromic-subsequences](https://github.com/Reena-senthilkumar/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1547-destination-city](https://github.com/Reena-senthilkumar/leetcode/tree/master/1547-destination-city) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Reena-senthilkumar/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Reena-senthilkumar/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/Reena-senthilkumar/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Reena-senthilkumar/leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -210,6 +211,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0941-sort-array-by-parity](https://github.com/Reena-senthilkumar/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1168-duplicate-zeros](https://github.com/Reena-senthilkumar/leetcode/tree/master/1168-duplicate-zeros) |
 | [1454-remove-palindromic-subsequences](https://github.com/Reena-senthilkumar/leetcode/tree/master/1454-remove-palindromic-subsequences) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Reena-senthilkumar/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/Reena-senthilkumar/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Math
@@ -302,4 +304,8 @@ This is just the beginning — and I’m so excited for what’s ahead.
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Reena-senthilkumar/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
