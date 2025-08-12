@@ -4,10 +4,7 @@ class Solution {
         int sum=Arrays.stream(apple).sum();
         int c=0;
             for (int i = capacity.length - 1; i >= 0; i--) {
-                if(capacity[i]<=sum || capacity[i]>=0){
-                    c++;
-                    sum=sum-capacity[i];
-                }
+                    sum=sum-capacity[i]; c++;
                 if(sum<=0) break;
         }
         return c;
