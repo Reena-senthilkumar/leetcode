@@ -197,6 +197,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3019-furthest-point-from-origin](https://github.com/Reena-senthilkumar/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3055-maximum-odd-binary-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Reena-senthilkumar/leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3396-valid-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
@@ -279,6 +280,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2190-count-common-words-with-one-occurrence](https://github.com/Reena-senthilkumar/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3324-split-the-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/3324-split-the-array) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Reena-senthilkumar/leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Design
 |  |
