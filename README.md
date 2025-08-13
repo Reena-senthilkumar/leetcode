@@ -246,6 +246,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2383-add-two-integers](https://github.com/Reena-senthilkumar/leetcode/tree/master/2383-add-two-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Reena-senthilkumar/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3371-harshad-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/3371-harshad-number) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Dynamic Programming
 |  |
