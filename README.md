@@ -198,6 +198,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3055-maximum-odd-binary-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Reena-senthilkumar/leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3379-score-of-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
