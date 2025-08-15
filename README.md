@@ -205,6 +205,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3379-score-of-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/3396-valid-word) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -293,6 +294,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3324-split-the-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/3324-split-the-array) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Reena-senthilkumar/leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Design
 |  |
