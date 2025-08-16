@@ -137,6 +137,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Reena-senthilkumar/leetcode/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -157,6 +158,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reena-senthilkumar/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3019-furthest-point-from-origin](https://github.com/Reena-senthilkumar/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3324-split-the-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/3324-split-the-array) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Sorting
 |  |
 | ------- |
@@ -298,6 +300,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Reena-senthilkumar/leetcode/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Design
