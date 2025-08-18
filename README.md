@@ -214,6 +214,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3408-count-the-number-of-special-characters-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Reena-senthilkumar/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3468-find-the-encrypted-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/3468-find-the-encrypted-string) |
 ## Sliding Window
 |  |
 | ------- |
