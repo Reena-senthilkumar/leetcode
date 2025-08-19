@@ -381,4 +381,20 @@ This is just the beginning — and I’m so excited for what’s ahead.
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
