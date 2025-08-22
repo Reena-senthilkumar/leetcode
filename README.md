@@ -272,6 +272,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3371-harshad-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Reena-senthilkumar/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/3568-find-the-key-of-the-numbers) |
+| [3830-find-closest-person](https://github.com/Reena-senthilkumar/leetcode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
