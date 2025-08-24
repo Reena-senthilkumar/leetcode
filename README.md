@@ -175,6 +175,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2756-buy-two-chocolates](https://github.com/Reena-senthilkumar/leetcode/tree/master/2756-buy-two-chocolates) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Reena-senthilkumar/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3859-maximum-product-of-two-digits](https://github.com/Reena-senthilkumar/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -274,6 +275,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3568-find-the-key-of-the-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3830-find-closest-person](https://github.com/Reena-senthilkumar/leetcode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3859-maximum-product-of-two-digits](https://github.com/Reena-senthilkumar/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
