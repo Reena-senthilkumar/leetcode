@@ -221,6 +221,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Reena-senthilkumar/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3468-find-the-encrypted-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/3468-find-the-encrypted-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Reena-senthilkumar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3893-generate-tag-for-video-caption](https://github.com/Reena-senthilkumar/leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Sliding Window
 |  |
 | ------- |
@@ -364,6 +365,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Reena-senthilkumar/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3790-fruits-into-baskets-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3893-generate-tag-for-video-caption](https://github.com/Reena-senthilkumar/leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Segment Tree
 |  |
 | ------- |
