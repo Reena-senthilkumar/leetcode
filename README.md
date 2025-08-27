@@ -281,6 +281,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/Reena-senthilkumar/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Reena-senthilkumar/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
