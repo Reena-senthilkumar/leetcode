@@ -102,6 +102,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Reena-senthilkumar/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0136-single-number) |
 | [0605-can-place-flowers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0605-can-place-flowers) |
@@ -169,6 +170,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Reena-senthilkumar/leetcode/tree/master/0075-sort-colors) |
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/Reena-senthilkumar/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -245,6 +247,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Reena-senthilkumar/leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0392-is-subsequence) |
