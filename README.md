@@ -102,6 +102,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Reena-senthilkumar/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0136-single-number) |
@@ -314,6 +315,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
