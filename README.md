@@ -104,6 +104,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | ------- |
 | [0001-two-sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Reena-senthilkumar/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0136-single-number) |
 | [0605-can-place-flowers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0605-can-place-flowers) |
@@ -292,6 +293,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/Reena-senthilkumar/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0392-is-subsequence) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -426,4 +428,8 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0100-same-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
