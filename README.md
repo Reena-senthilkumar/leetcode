@@ -107,6 +107,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0053-maximum-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Reena-senthilkumar/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0136-single-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0724-find-pivot-index) |
@@ -300,6 +301,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Reena-senthilkumar/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2714-left-and-right-sum-differences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -321,6 +323,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0202-happy-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0965-unique-email-addresses](https://github.com/Reena-senthilkumar/leetcode/tree/master/0965-unique-email-addresses) |
 | [1547-destination-city](https://github.com/Reena-senthilkumar/leetcode/tree/master/1547-destination-city) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Reena-senthilkumar/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
