@@ -107,6 +107,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0053-maximum-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Reena-senthilkumar/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/Reena-senthilkumar/leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Reena-senthilkumar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0605-can-place-flowers) |
@@ -271,6 +272,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0168-excel-sheet-column-title](https://github.com/Reena-senthilkumar/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Reena-senthilkumar/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Reena-senthilkumar/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Reena-senthilkumar/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Reena-senthilkumar/leetcode/tree/master/0342-power-of-four) |
@@ -371,6 +373,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Reena-senthilkumar/leetcode/tree/master/0204-count-primes) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2870-longest-alternating-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/2870-longest-alternating-subarray) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
@@ -438,4 +441,8 @@ This is just the beginning — and I’m so excited for what’s ahead.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0053-maximum-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Reena-senthilkumar/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
