@@ -5,8 +5,7 @@ class Solution {
        temp[0]=true;
        for(int i=0;i<nums.length;i++){
         int count=1;
-        if(temp[i])  continue;
-
+       if(!temp[i]){
         for(int j=i+1;j<nums.length;j++){
             if(nums[i]==nums[j]){
                 count++;
@@ -16,6 +15,7 @@ class Solution {
         if(count==1){
             op=nums[i];
         }
+       }
        }
         return op ;
     }
