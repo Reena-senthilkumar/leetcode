@@ -108,6 +108,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0055-jump-game](https://github.com/Reena-senthilkumar/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Reena-senthilkumar/leetcode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/Reena-senthilkumar/leetcode/tree/master/0204-count-primes) |
@@ -335,6 +336,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
@@ -455,4 +457,8 @@ This is just the beginning — and I’m so excited for what’s ahead.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Reena-senthilkumar/leetcode/tree/master/0204-count-primes) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
