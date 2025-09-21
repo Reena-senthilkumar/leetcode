@@ -112,6 +112,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0128-longest-consecutive-sequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0204-count-primes](https://github.com/Reena-senthilkumar/leetcode/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/Reena-senthilkumar/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Reena-senthilkumar/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -321,6 +322,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0053-maximum-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Reena-senthilkumar/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Reena-senthilkumar/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0392-is-subsequence) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
