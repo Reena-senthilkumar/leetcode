@@ -121,6 +121,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0287-find-the-duplicate-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0724-find-pivot-index) |
@@ -194,6 +195,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0075-sort-colors](https://github.com/Reena-senthilkumar/leetcode/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/Reena-senthilkumar/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/Reena-senthilkumar/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1970-sorting-the-sentence](https://github.com/Reena-senthilkumar/leetcode/tree/master/1970-sorting-the-sentence) |
@@ -296,6 +298,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0231-power-of-two](https://github.com/Reena-senthilkumar/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Reena-senthilkumar/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Reena-senthilkumar/leetcode/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/Reena-senthilkumar/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
