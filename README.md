@@ -135,6 +135,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0907-koko-eating-bananas](https://github.com/Reena-senthilkumar/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Reena-senthilkumar/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/Reena-senthilkumar/leetcode/tree/master/0965-unique-email-addresses) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Reena-senthilkumar/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1168-duplicate-zeros](https://github.com/Reena-senthilkumar/leetcode/tree/master/1168-duplicate-zeros) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Reena-senthilkumar/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
@@ -398,6 +399,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Reena-senthilkumar/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0837-most-common-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/0837-most-common-word) |
 | [0965-unique-email-addresses](https://github.com/Reena-senthilkumar/leetcode/tree/master/0965-unique-email-addresses) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1547-destination-city](https://github.com/Reena-senthilkumar/leetcode/tree/master/1547-destination-city) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Reena-senthilkumar/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
