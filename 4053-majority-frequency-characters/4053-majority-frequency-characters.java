@@ -14,7 +14,7 @@ class Solution {
         int max=0;
         int t=0;
         for(Map.Entry<Integer,Integer> entry:temp.entrySet()){
-            if(entry.getValue() > max || (entry.getValue() == max && entry.getKey() > t)){
+            if((entry.getValue() > max && entry.getKey() > t) || (entry.getValue() == max && entry.getKey() > t)){
                 max=entry.getValue();
                 t=entry.getKey();
             }
