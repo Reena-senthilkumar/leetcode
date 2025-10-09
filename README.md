@@ -202,6 +202,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3324-split-the-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Reena-senthilkumar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4053-majority-frequency-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/4053-majority-frequency-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -271,6 +272,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3468-find-the-encrypted-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/3468-find-the-encrypted-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Reena-senthilkumar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3893-generate-tag-for-video-caption](https://github.com/Reena-senthilkumar/leetcode/tree/master/3893-generate-tag-for-video-caption) |
+| [4053-majority-frequency-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/4053-majority-frequency-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -412,6 +414,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Reena-senthilkumar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4053-majority-frequency-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/4053-majority-frequency-characters) |
 ## Design
 |  |
 | ------- |
