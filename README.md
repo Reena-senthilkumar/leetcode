@@ -204,6 +204,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3242-count-elements-with-maximum-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/3324-split-the-array) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Reena-senthilkumar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/Reena-senthilkumar/leetcode/tree/master/3994-find-the-least-frequent-digit) |
@@ -275,6 +276,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3412-permutation-difference-between-two-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Reena-senthilkumar/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3468-find-the-encrypted-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/3468-find-the-encrypted-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Reena-senthilkumar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3893-generate-tag-for-video-caption](https://github.com/Reena-senthilkumar/leetcode/tree/master/3893-generate-tag-for-video-caption) |
 | [4053-majority-frequency-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/4053-majority-frequency-characters) |
@@ -420,6 +422,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Reena-senthilkumar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/Reena-senthilkumar/leetcode/tree/master/3994-find-the-least-frequent-digit) |
