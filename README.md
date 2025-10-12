@@ -179,6 +179,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Reena-senthilkumar/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -438,6 +439,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Reena-senthilkumar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/Reena-senthilkumar/leetcode/tree/master/3994-find-the-least-frequent-digit) |
@@ -484,6 +486,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2870-longest-alternating-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/2870-longest-alternating-subarray) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -515,6 +518,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0231-power-of-two](https://github.com/Reena-senthilkumar/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Reena-senthilkumar/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Reena-senthilkumar/leetcode/tree/master/0342-power-of-four) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Rolling Hash
 |  |
 | ------- |
