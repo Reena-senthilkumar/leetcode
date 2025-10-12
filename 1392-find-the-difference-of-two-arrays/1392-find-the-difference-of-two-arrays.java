@@ -1,34 +1,20 @@
 class Solution {
     public List<List<Integer>> findDifference(int[] nums1, int[] nums2) {
-        List<List<Integer>> result=new LinkedList<>();
-        List<Integer> list=new LinkedList<>();
-        for(int i=0;i<nums1.length;i++){
-            boolean temp=false;
-            for(int j=0;j<nums2.length;j++){
-                 if(nums1[i]==nums2[j]){
-                    temp=true;
-                    break;
-                 }
-            }
-            if(!temp && !list.contains(nums1[i])){
-                list.add(nums1[i]);
-            }
-        }
-        result.add(list);
-        List<Integer> list1=new LinkedList<>();
-        for(int i=0;i<nums2.length;i++){
-            boolean temp=false;
-            for(int j=0;j<nums1.length;j++){
-                 if(nums2[i]==nums1[j]){
-                    temp=true;
-                    break;
-                 }
-            }
-            if(!temp && !list1.contains(nums2[i])){
-                list1.add(nums2[i]);
-            }
-        }
-        result.add(list1);
-        return result;
+        Set<Integer> set1 = new HashSet<>();
+        Set<Integer> set2 = new HashSet<>();
+        for (int n : nums1) set1.add(n);
+        for (int n : nums2) set2.add(n);
+
+        List<Integer> onlyIn1 = new ArrayList<>();
+        for (int n : set1)
+            if (!set2.contains(n))
+                onlyIn1.add(n);
+
+        List<Integer> onlyIn2 = new ArrayList<>();
+        for (int n : set2)
+            if (!set1.contains(n))
+                onlyIn2.add(n);
+
+        return Arrays.asList(onlyIn1, onlyIn2);
     }
 }
