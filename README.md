@@ -178,6 +178,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3994-find-the-least-frequent-digit](https://github.com/Reena-senthilkumar/leetcode/tree/master/3994-find-the-least-frequent-digit) |
+| [4008-restore-finishing-order](https://github.com/Reena-senthilkumar/leetcode/tree/master/4008-restore-finishing-order) |
 ## Binary Search
 |  |
 | ------- |
@@ -418,6 +419,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Reena-senthilkumar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3994-find-the-least-frequent-digit](https://github.com/Reena-senthilkumar/leetcode/tree/master/3994-find-the-least-frequent-digit) |
+| [4008-restore-finishing-order](https://github.com/Reena-senthilkumar/leetcode/tree/master/4008-restore-finishing-order) |
 | [4053-majority-frequency-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/4053-majority-frequency-characters) |
 ## Design
 |  |
