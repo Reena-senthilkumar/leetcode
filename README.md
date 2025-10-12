@@ -151,6 +151,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2486-most-frequent-even-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reena-senthilkumar/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -201,6 +202,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0837-most-common-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/0837-most-common-word) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Reena-senthilkumar/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2486-most-frequent-even-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reena-senthilkumar/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3019-furthest-point-from-origin](https://github.com/Reena-senthilkumar/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -417,6 +419,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [1547-destination-city](https://github.com/Reena-senthilkumar/leetcode/tree/master/1547-destination-city) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Reena-senthilkumar/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2486-most-frequent-even-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/2486-most-frequent-even-element) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Reena-senthilkumar/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
