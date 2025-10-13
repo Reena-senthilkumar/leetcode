@@ -205,6 +205,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0594-longest-harmonious-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0837-most-common-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/0837-most-common-word) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Reena-senthilkumar/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -268,6 +269,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Reena-senthilkumar/leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1954-replace-all-digits-with-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1970-sorting-the-sentence](https://github.com/Reena-senthilkumar/leetcode/tree/master/1970-sorting-the-sentence) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Reena-senthilkumar/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -302,6 +304,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0713-subarray-product-less-than-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -431,6 +434,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [1392-find-the-difference-of-two-arrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1547-destination-city](https://github.com/Reena-senthilkumar/leetcode/tree/master/1547-destination-city) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Reena-senthilkumar/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
