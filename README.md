@@ -208,6 +208,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Reena-senthilkumar/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Reena-senthilkumar/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reena-senthilkumar/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -275,6 +276,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2365-percentage-of-letter-in-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Reena-senthilkumar/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2401-count-asterisks](https://github.com/Reena-senthilkumar/leetcode/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Reena-senthilkumar/leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
@@ -438,6 +440,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2190-count-common-words-with-one-occurrence](https://github.com/Reena-senthilkumar/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Reena-senthilkumar/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/2486-most-frequent-even-element) |
