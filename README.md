@@ -155,6 +155,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2432-number-of-zero-filled-subarrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/2486-most-frequent-even-element) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reena-senthilkumar/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -211,6 +212,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Reena-senthilkumar/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/2486-most-frequent-even-element) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reena-senthilkumar/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3019-furthest-point-from-origin](https://github.com/Reena-senthilkumar/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -280,6 +282,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2401-count-asterisks](https://github.com/Reena-senthilkumar/leetcode/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Reena-senthilkumar/leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2825-minimize-string-length](https://github.com/Reena-senthilkumar/leetcode/tree/master/2825-minimize-string-length) |
 | [2881-split-strings-by-separator](https://github.com/Reena-senthilkumar/leetcode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Reena-senthilkumar/leetcode/tree/master/2886-faulty-keyboard) |
@@ -416,6 +419,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
@@ -445,6 +449,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2427-first-letter-to-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/2486-most-frequent-even-element) |
+| [2594-count-pairs-of-similar-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2825-minimize-string-length](https://github.com/Reena-senthilkumar/leetcode/tree/master/2825-minimize-string-length) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Reena-senthilkumar/leetcode/tree/master/3227-find-missing-and-repeated-values) |
