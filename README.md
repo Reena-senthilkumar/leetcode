@@ -161,6 +161,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2639-separate-the-digits-in-an-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/Reena-senthilkumar/leetcode/tree/master/2756-buy-two-chocolates) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2870-longest-alternating-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/2870-longest-alternating-subarray) |
 | [2881-split-strings-by-separator](https://github.com/Reena-senthilkumar/leetcode/tree/master/2881-split-strings-by-separator) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -286,6 +287,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Reena-senthilkumar/leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2825-minimize-string-length](https://github.com/Reena-senthilkumar/leetcode/tree/master/2825-minimize-string-length) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Reena-senthilkumar/leetcode/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Reena-senthilkumar/leetcode/tree/master/2886-faulty-keyboard) |
 | [3019-furthest-point-from-origin](https://github.com/Reena-senthilkumar/leetcode/tree/master/3019-furthest-point-from-origin) |
@@ -455,6 +457,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2594-count-pairs-of-similar-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/Reena-senthilkumar/leetcode/tree/master/2634-minimum-common-value) |
 | [2825-minimize-string-length](https://github.com/Reena-senthilkumar/leetcode/tree/master/2825-minimize-string-length) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Reena-senthilkumar/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -520,6 +523,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0067-add-binary](https://github.com/Reena-senthilkumar/leetcode/tree/master/0067-add-binary) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Reena-senthilkumar/leetcode/tree/master/2886-faulty-keyboard) |
 | [3311-ant-on-the-boundary](https://github.com/Reena-senthilkumar/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
