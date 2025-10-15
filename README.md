@@ -272,6 +272,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Reena-senthilkumar/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1894-merge-strings-alternately](https://github.com/Reena-senthilkumar/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1904-second-largest-digit-in-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Reena-senthilkumar/leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1954-replace-all-digits-with-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1970-sorting-the-sentence](https://github.com/Reena-senthilkumar/leetcode/tree/master/1970-sorting-the-sentence) |
@@ -446,6 +447,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [1392-find-the-difference-of-two-arrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1547-destination-city](https://github.com/Reena-senthilkumar/leetcode/tree/master/1547-destination-city) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1904-second-largest-digit-in-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Reena-senthilkumar/leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
