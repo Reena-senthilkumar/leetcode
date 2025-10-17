@@ -164,6 +164,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reena-senthilkumar/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Reena-senthilkumar/leetcode/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2714-left-and-right-sum-differences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2756-buy-two-chocolates](https://github.com/Reena-senthilkumar/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -473,6 +474,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2486-most-frequent-even-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/Reena-senthilkumar/leetcode/tree/master/2634-minimum-common-value) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2825-minimize-string-length](https://github.com/Reena-senthilkumar/leetcode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -531,6 +533,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0204-count-primes](https://github.com/Reena-senthilkumar/leetcode/tree/master/0204-count-primes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2870-longest-alternating-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/2870-longest-alternating-subarray) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
