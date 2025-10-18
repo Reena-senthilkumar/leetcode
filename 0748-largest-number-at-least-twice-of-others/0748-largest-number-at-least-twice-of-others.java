@@ -8,17 +8,10 @@ for (int i = 0; i < nums.length; i++) {
         break;
     }
 }    
-boolean temp=true;
-for(int i=0;i<nums.length;i++){
-    if(i!=index){
-        if(nums[index]>=nums[i]*2){
-            temp=true;
-        }
-        else{
-            temp=false; break;
-        }
-    }
-}    
-        return temp? index : -1;
+for (int i = 0; i < nums.length; i++) {
+    if (i != index && nums[index] < nums[i] * 2)
+        return -1;
+}
+return index;
     }
 }
