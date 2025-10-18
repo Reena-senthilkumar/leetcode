@@ -132,6 +132,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0713-subarray-product-less-than-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0724-find-pivot-index) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Reena-senthilkumar/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0837-most-common-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/0837-most-common-word) |
 | [0907-koko-eating-bananas](https://github.com/Reena-senthilkumar/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Reena-senthilkumar/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -245,6 +246,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0506-relative-ranks](https://github.com/Reena-senthilkumar/leetcode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Reena-senthilkumar/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/Reena-senthilkumar/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1018-largest-perimeter-triangle](https://github.com/Reena-senthilkumar/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1970-sorting-the-sentence](https://github.com/Reena-senthilkumar/leetcode/tree/master/1970-sorting-the-sentence) |
