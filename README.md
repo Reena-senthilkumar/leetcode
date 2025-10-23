@@ -384,6 +384,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0231-power-of-two](https://github.com/Reena-senthilkumar/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Reena-senthilkumar/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Reena-senthilkumar/leetcode/tree/master/0342-power-of-four) |
+| [0492-construct-the-rectangle](https://github.com/Reena-senthilkumar/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/Reena-senthilkumar/leetcode/tree/master/1018-largest-perimeter-triangle) |
