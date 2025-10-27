@@ -204,6 +204,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/Reena-senthilkumar/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [4008-restore-finishing-order](https://github.com/Reena-senthilkumar/leetcode/tree/master/4008-restore-finishing-order) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -243,6 +244,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/Reena-senthilkumar/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [4053-majority-frequency-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/4053-majority-frequency-characters) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -516,6 +518,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3994-find-the-least-frequent-digit](https://github.com/Reena-senthilkumar/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [4008-restore-finishing-order](https://github.com/Reena-senthilkumar/leetcode/tree/master/4008-restore-finishing-order) |
 | [4053-majority-frequency-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/4053-majority-frequency-characters) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Design
 |  |
 | ------- |
