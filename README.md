@@ -311,6 +311,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Reena-senthilkumar/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2401-count-asterisks](https://github.com/Reena-senthilkumar/leetcode/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2470-removing-stars-from-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2476-check-distances-between-same-letters](https://github.com/Reena-senthilkumar/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Reena-senthilkumar/leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -557,6 +558,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0145-binary-tree-postorder-traversal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Reena-senthilkumar/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Reena-senthilkumar/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -579,6 +581,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Reena-senthilkumar/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Reena-senthilkumar/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2470-removing-stars-from-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2857-total-distance-traveled](https://github.com/Reena-senthilkumar/leetcode/tree/master/2857-total-distance-traveled) |
