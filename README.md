@@ -142,6 +142,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [1168-duplicate-zeros](https://github.com/Reena-senthilkumar/leetcode/tree/master/1168-duplicate-zeros) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Reena-senthilkumar/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Reena-senthilkumar/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Reena-senthilkumar/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/Reena-senthilkumar/leetcode/tree/master/1547-destination-city) |
@@ -351,6 +352,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0605-can-place-flowers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Reena-senthilkumar/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Reena-senthilkumar/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -397,6 +399,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [1018-largest-perimeter-triangle](https://github.com/Reena-senthilkumar/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Reena-senthilkumar/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Reena-senthilkumar/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1448-maximum-69-number) |
