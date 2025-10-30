@@ -396,6 +396,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0728-self-dividing-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0728-self-dividing-numbers) |
 | [1018-largest-perimeter-triangle](https://github.com/Reena-senthilkumar/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Reena-senthilkumar/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1448-maximum-69-number) |
@@ -429,6 +430,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0338-counting-bits](https://github.com/Reena-senthilkumar/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0392-is-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1236-n-th-tribonacci-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Prefix Sum
 |  |
@@ -670,4 +672,8 @@ This is just the beginning — and I’m so excited for what’s ahead.
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/Reena-senthilkumar/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
