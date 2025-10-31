@@ -121,6 +121,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0260-single-number-iii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/Reena-senthilkumar/leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -481,6 +482,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0383-ransom-note](https://github.com/Reena-senthilkumar/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Reena-senthilkumar/leetcode/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Reena-senthilkumar/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
