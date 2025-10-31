@@ -167,6 +167,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2476-check-distances-between-same-letters](https://github.com/Reena-senthilkumar/leetcode/tree/master/2476-check-distances-between-same-letters) |
 | [2486-most-frequent-even-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/2486-most-frequent-even-element) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Reena-senthilkumar/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reena-senthilkumar/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Reena-senthilkumar/leetcode/tree/master/2634-minimum-common-value) |
@@ -412,6 +413,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2383-add-two-integers](https://github.com/Reena-senthilkumar/leetcode/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Reena-senthilkumar/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Reena-senthilkumar/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Reena-senthilkumar/leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2857-total-distance-traveled](https://github.com/Reena-senthilkumar/leetcode/tree/master/2857-total-distance-traveled) |
