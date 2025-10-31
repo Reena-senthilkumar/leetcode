@@ -198,6 +198,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Reena-senthilkumar/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Reena-senthilkumar/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3790-fruits-into-baskets-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -419,6 +420,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3371-harshad-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Reena-senthilkumar/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/3568-find-the-key-of-the-numbers) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Reena-senthilkumar/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/Reena-senthilkumar/leetcode/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/Reena-senthilkumar/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -521,6 +523,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Reena-senthilkumar/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Reena-senthilkumar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
