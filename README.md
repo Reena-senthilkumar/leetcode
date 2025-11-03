@@ -121,6 +121,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0260-single-number-iii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/Reena-senthilkumar/leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -225,6 +226,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Reena-senthilkumar/leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -259,6 +261,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0056-merge-intervals](https://github.com/Reena-senthilkumar/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Reena-senthilkumar/leetcode/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Reena-senthilkumar/leetcode/tree/master/0506-relative-ranks) |
@@ -491,6 +494,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0141-linked-list-cycle](https://github.com/Reena-senthilkumar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Reena-senthilkumar/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Reena-senthilkumar/leetcode/tree/master/0409-longest-palindrome) |
@@ -677,6 +681,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -693,6 +698,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Reena-senthilkumar/leetcode/tree/master/0506-relative-ranks) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Reena-senthilkumar/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -717,5 +723,10 @@ This is just the beginning — and I’m so excited for what’s ahead.
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
