@@ -413,6 +413,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0492-construct-the-rectangle](https://github.com/Reena-senthilkumar/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0728-self-dividing-numbers) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Reena-senthilkumar/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1018-largest-perimeter-triangle](https://github.com/Reena-senthilkumar/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -480,6 +481,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0342-power-of-four](https://github.com/Reena-senthilkumar/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Reena-senthilkumar/leetcode/tree/master/0461-hamming-distance) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Reena-senthilkumar/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2159-two-out-of-three](https://github.com/Reena-senthilkumar/leetcode/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/2427-first-letter-to-appear-twice) |
