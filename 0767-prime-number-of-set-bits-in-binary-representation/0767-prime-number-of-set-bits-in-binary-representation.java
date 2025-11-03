@@ -2,13 +2,9 @@ class Solution {
     public int countPrimeSetBits(int left, int right) {
         int result=0;
         while(left<=right){
-            String s=Integer.toBinaryString(left);
-            int count=0;
-                for(char ch:s.toCharArray()){
-                    if(ch=='1') count++;
-                }
+            int bitcount=Integer.bitCount(left);
                         left++;
-                if(isPrime(count)) result++;
+                if(isPrime(bitcount)) result++;
             }
             return result;
         }
