@@ -113,6 +113,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0136-single-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Reena-senthilkumar/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Reena-senthilkumar/leetcode/tree/master/0204-count-primes) |
@@ -229,6 +230,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Reena-senthilkumar/leetcode/tree/master/0383-ransom-note) |
@@ -264,6 +266,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0015-3sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Reena-senthilkumar/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Reena-senthilkumar/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -511,6 +514,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0001-two-sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Reena-senthilkumar/leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0229-majority-element-ii) |
@@ -702,6 +706,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Number Theory
 |  |
