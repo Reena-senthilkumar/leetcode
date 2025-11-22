@@ -361,6 +361,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3412-permutation-difference-between-two-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Reena-senthilkumar/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3468-find-the-encrypted-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/3468-find-the-encrypted-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Reena-senthilkumar/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3893-generate-tag-for-video-caption](https://github.com/Reena-senthilkumar/leetcode/tree/master/3893-generate-tag-for-video-caption) |
@@ -648,6 +649,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [3311-ant-on-the-boundary](https://github.com/Reena-senthilkumar/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Reena-senthilkumar/leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3498-reverse-degree-of-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3790-fruits-into-baskets-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3893-generate-tag-for-video-caption](https://github.com/Reena-senthilkumar/leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Segment Tree
