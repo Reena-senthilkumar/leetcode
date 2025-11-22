@@ -319,6 +319,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1454-remove-palindromic-subsequences](https://github.com/Reena-senthilkumar/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1547-destination-city](https://github.com/Reena-senthilkumar/leetcode/tree/master/1547-destination-city) |
+| [1556-thousand-separator](https://github.com/Reena-senthilkumar/leetcode/tree/master/1556-thousand-separator) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Reena-senthilkumar/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1666-make-the-string-great](https://github.com/Reena-senthilkumar/leetcode/tree/master/1666-make-the-string-great) |
 | [1714-rearrange-spaces-between-words](https://github.com/Reena-senthilkumar/leetcode/tree/master/1714-rearrange-spaces-between-words) |
