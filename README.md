@@ -304,6 +304,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0383-ransom-note](https://github.com/Reena-senthilkumar/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Reena-senthilkumar/leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Reena-senthilkumar/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -434,6 +435,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0231-power-of-two](https://github.com/Reena-senthilkumar/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Reena-senthilkumar/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Reena-senthilkumar/leetcode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0492-construct-the-rectangle](https://github.com/Reena-senthilkumar/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -506,6 +508,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0338-counting-bits](https://github.com/Reena-senthilkumar/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Reena-senthilkumar/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Reena-senthilkumar/leetcode/tree/master/0461-hamming-distance) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Reena-senthilkumar/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1054-complement-of-base-10-integer](https://github.com/Reena-senthilkumar/leetcode/tree/master/1054-complement-of-base-10-integer) |
