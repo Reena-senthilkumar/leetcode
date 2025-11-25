@@ -594,6 +594,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0225-implement-stack-using-queues](https://github.com/Reena-senthilkumar/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Trie
 |  |
 | ------- |
@@ -617,6 +618,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Reena-senthilkumar/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0874-backspace-string-compare](https://github.com/Reena-senthilkumar/leetcode/tree/master/0874-backspace-string-compare) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Reena-senthilkumar/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/Reena-senthilkumar/leetcode/tree/master/1666-make-the-string-great) |
@@ -770,4 +772,8 @@ This is just the beginning — and I’m so excited for what’s ahead.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Reena-senthilkumar/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
