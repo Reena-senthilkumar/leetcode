@@ -8,10 +8,7 @@ class Solution {
                 }
             }
         }
-        StringBuilder sb=new StringBuilder();
-        for(String s:sp){
-            sb.append(s+" ");
-        }
-        return sb.toString().trim();
+        
+        return String.join(" ",sp);
     }
 }
