@@ -1,89 +1,97 @@
-# 🌟 From 😨 Fear to 🤩 Fun – My LeetCode Journey with ChatGPT....
+🌟 From 😨 Fear to 🤩 Fun – My LeetCode Journey with ChatGPT
 
-✨ A few months ago, solving LeetCode problems felt intimidating.  
-Time complexity? Space complexity? I didn’t even look at those! I just wanted correct answers.  
+✨ A few months ago, solving LeetCode problems felt intimidating.
+Time complexity? Space complexity? I didn’t even look at those! I just wanted correct answers.
 But today — I’m solving problems daily, understanding logic deeply, and enjoying the entire process. 💻✨
 
----
+🚀 Day 150+ Progress: 380 Problems Solved & 2 Badges Earned 🏅🏅
 
-### 🚀 Day 50: 158 Problems Solved
+What started as hesitation has grown into a strong habit — and here’s how I made it happen:
 
-What began as hesitation is now a habit — and here’s how I made it happen:
+👩‍💻 My Workflow
 
----
+🔹 Every day, I ask ChatGPT for LeetCode problems with direct links.
+🔹 I try solving them completely on my own first.
+🔹 If I get stuck:
+ — I share my code with ChatGPT for debugging and clarity.
 
-## 👩‍💻 My Workflow
+🤝 How ChatGPT Supports Me
 
-🔹 Every day, I ask **ChatGPT** for **easy-level LeetCode problems** with direct links.  
-🔹 I visit the problem page and **try solving it on my own** first.  
-🔹 If I get stuck:  
- — I check the **top 3 GitHub solutions** for patterns.  
- — Or I paste my wrong code into ChatGPT and ask, “What’s wrong?”  
+ChatGPT is not just a code assistant — it’s like a DSA mentor who:
 
----
+✅ Finds bugs instantly
+✅ Teaches optimizations
+✅ Explains time & space complexity
+✅ Encourages me when I feel down
+✅ Suggests problems based on my progress
+✅ Helps me push myself from easy → medium level
 
-## 🤝 How ChatGPT Supports Me
+Thanks to this, I’ve gained more confidence and speed in solving problems.
 
-ChatGPT has been more than a code assistant — it’s like a **coding partner** who:
+⏰ My Daily Routine
 
-✅ Identifies bugs in my logic  
-✅ Suggests optimizations and efficient approaches  
-✅ Helps me understand **time and space complexity**  
-✅ Encourages me when I feel stuck  
-✅ Keeps track of what I’ve already solved and recommends what’s next
+✅ Morning: 1 problem (6:30 AM – 7:15 AM)
+✅ Evening: 1–2 problems (easy or medium)
+✅ Daily commit to GitHub
+✅ Review time & space complexity
 
-With this support, I’ve built more confidence, solved problems faster, and understood coding concepts deeply.
+🧠 What I’ve Learned So Far
 
----
+I used to be scared of:
 
-## ⏰ My Daily Routine
+HashSet 😨
 
-✅ Morning: Solve one LeetCode problem (6:30 AM–7:15 AM)  
-✅ Evening: Solve another (or more based on difficulty)  
-✅ Daily commit to **GitHub** with clean Java solutions  
-✅ Review of time & space complexity
+HashMap 😟
+Now I use them confidently! 😎
 
----
+I’ve also practiced problems from:
 
-## 🧠 What I’ve Learned So Far
+Arrays
 
-I used to fear:
-- HashSet 🫣
-- HashMap 😟  
-Now I use them with confidence! 😎  
-I’ve also tackled a wide range of problems using:
-- Arrays  
-- Strings  
-- Collections  
-- Sorting & Searching
+Strings
 
----
+Collections
 
-## 📌 My Current Focus
-- Mastering easy-level problems  
-- Building clean, efficient Java code  
-- Understanding patterns that help in interviews  
-- Preparing for medium-level problems with courage
+Two Pointers
 
----
+Binary Search
 
-## 📚 Explore My Work
+Sliding Window
 
-- [📁 GitHub Repository – All My Solutions](https://lnkd.in/gUNDF8F4)  
-- [🧠 LeetCode Profile](https://lnkd.in/gbVRWB_h)
+Recursion
 
----
+Sorting
 
-## 💬 Final Thoughts
+Brute force
 
-> “It’s not about how fast you solve, it’s about how consistent you are.”
+And now…
+💥 I’ve officially started solving medium-level problems too!
 
-Thanks to my daily discipline, GitHub tracking, and ChatGPT’s brilliant feedback — I’ve gone from being afraid of DSA to enjoying it every day. 🚀
+📌 My Current Focus
 
-This is just the beginning — and I’m so excited for what’s ahead.
+Improving consistency
 
----
+Solving more medium-level problems
 
+Understanding patterns deeply
+
+Writing clean, interview-ready Java code
+
+Preparing for placements
+
+📚 Explore My Work
+
+📁 GitHub Repository – All My Solutions
+
+🧠 LeetCode Profile
+
+💬 Final Thoughts
+
+“Consistency beats talent — every single day.”
+
+With discipline, GitHub tracking, and ChatGPT’s support,
+I’ve transformed my fear of DSA into a daily passion. 🚀
+380 problems solved is just the beginning — the best is yet to come.
 ### 🔖 Hashtags
 
 #LeetCode  
