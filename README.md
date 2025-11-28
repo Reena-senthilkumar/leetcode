@@ -56,9 +56,9 @@ Now I am confidently solving Medium-level problems too! 💥
 
 📚 Explore My Work
 
-📁 GitHub Repo: (Add your link)
+📁 GitHub Repo: (https://github.com/Reena-senthilkumar/leetcode/tree/main)
 
-🧠 LeetCode Profile: (Add your link)
+🧠 LeetCode Profile: (https://leetcode.com/u/reena_senthilkumar2005/)
 
 <h2>💬 Final Thoughts</h2>
 
