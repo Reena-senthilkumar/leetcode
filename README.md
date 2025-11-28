@@ -308,6 +308,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0392-is-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Reena-senthilkumar/leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Reena-senthilkumar/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/Reena-senthilkumar/leetcode/tree/master/0648-replace-words) |
@@ -440,6 +441,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0326-power-of-three](https://github.com/Reena-senthilkumar/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Reena-senthilkumar/leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/Reena-senthilkumar/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0728-self-dividing-numbers) |
@@ -651,6 +653,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Reena-senthilkumar/leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Reena-senthilkumar/leetcode/tree/master/0874-backspace-string-compare) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Reena-senthilkumar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Reena-senthilkumar/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
