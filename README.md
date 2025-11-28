@@ -514,6 +514,7 @@ This is just the beginning — and I’m so excited for what’s ahead.
 | [0389-find-the-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Reena-senthilkumar/leetcode/tree/master/0461-hamming-distance) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Reena-senthilkumar/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Reena-senthilkumar/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1054-complement-of-base-10-integer](https://github.com/Reena-senthilkumar/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Reena-senthilkumar/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
