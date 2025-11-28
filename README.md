@@ -7,14 +7,14 @@ But today — I’m solving problems daily, understanding logic deeply, and enjo
 🚀 Day 150+ Progress: 380 Problems Solved & 2 Badges Earned 🏅🏅
 
 What started as hesitation has grown into a strong habit — and here’s how I made it happen:
-
+---
 👩‍💻 My Workflow
 
 🔹 Every day, I ask ChatGPT for LeetCode problems with direct links.
 🔹 I try solving them completely on my own first.
 🔹 If I get stuck:
  — I share my code with ChatGPT for debugging and clarity.
-
+---
 🤝 How ChatGPT Supports Me
 
 ChatGPT is not just a code assistant — it’s like a DSA mentor who:
@@ -27,14 +27,14 @@ ChatGPT is not just a code assistant — it’s like a DSA mentor who:
 ✅ Helps me push myself from easy → medium level
 
 Thanks to this, I’ve gained more confidence and speed in solving problems.
-
+---
 ⏰ My Daily Routine
 
 ✅ Morning: 1 problem (6:30 AM – 7:15 AM)
 ✅ Evening: 1–2 problems (easy or medium)
 ✅ Daily commit to GitHub
 ✅ Review time & space complexity
-
+---
 🧠 What I’ve Learned So Far
 
 I used to be scared of:
@@ -84,11 +84,11 @@ Preparing for placements
 📁 GitHub Repository – All My Solutions
 
 🧠 LeetCode Profile
-
+---
 💬 Final Thoughts
 
 “Consistency beats talent — every single day.”
-
+---
 With discipline, GitHub tracking, and ChatGPT’s support,
 I’ve transformed my fear of DSA into a daily passion. 🚀
 380 problems solved is just the beginning — the best is yet to come.
