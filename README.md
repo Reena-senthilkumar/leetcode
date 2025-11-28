@@ -1,4 +1,4 @@
-#🌟 From 😨 Fear to 🤩 Fun – My LeetCode Journey with ChatGPT
+<h1>🌟 From 😨 Fear to 🤩 Fun – My LeetCode Journey</h1>
 
 A few months ago, LeetCode felt intimidating — I focused only on getting the right output.
 Today I understand logic, patterns, and complexities… and I genuinely enjoy solving problems! 💻✨
