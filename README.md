@@ -5,7 +5,7 @@ Today I understand logic, patterns, and complexities… and I genuinely enjoy so
 
 ---
 
-<h2>🚀 150+ Days of Consistency
+<h2>🚀 150+ Days of Consistency</h2>
 📈 380+ Problems Solved | 🏅🏅 Earned 2 Badges | 🔥 Strong Daily Streak
 📦 My Workflow
 🔹 I ask ChatGPT for LeetCode problems with direct links  
@@ -13,7 +13,7 @@ Today I understand logic, patterns, and complexities… and I genuinely enjoy so
 🔹 If I get stuck, I share my code for debugging help  
 🔹 I learn optimizations + time and space complexities  
 
-<h2>🤝 How ChatGPT Helps Me
+<h2>🤝 How ChatGPT Helps Me</h2>
 💡 Finds bugs instantly  
 ⚙️ Teaches logic, patterns & optimizations  
 📊 Explains complexities  
@@ -22,7 +22,7 @@ Today I understand logic, patterns, and complexities… and I genuinely enjoy so
 
 ---
 
-<h2>⏰ My Daily Routine
+<h2>⏰ My Daily Routine</h2>
 🌅 Morning: 1 Problem (6:30 AM – 7:15 AM)  
 🌇 Evening: 1–2 Problems  
 🟩 Daily GitHub Commit  
@@ -30,7 +30,7 @@ Today I understand logic, patterns, and complexities… and I genuinely enjoy so
 
 ---
 
-<h2>🧠 Topics I’ve Practiced
+<h2>🧠 Topics I’ve Practiced</h2>
 ✔ Arrays  
 ✔ Strings  
 ✔ HashMap & HashSet  
@@ -47,7 +47,7 @@ Now I am confidently solving Medium-level problems too! 💥
 
 ---
 
-<h2>🎯 My Current Focus
+<h2>🎯 My Current Focus</h2>
 🔸 Consistency  
 🔸 Medium-level mastery  
 🔸 Pattern recognition  
@@ -60,7 +60,7 @@ Now I am confidently solving Medium-level problems too! 💥
 
 🧠 LeetCode Profile: (Add your link)
 
-<h2>💬 Final Thoughts
+<h2>💬 Final Thoughts</h2>
 
 “Consistency beats talent — every single day.”
 
