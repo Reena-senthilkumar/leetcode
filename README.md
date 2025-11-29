@@ -124,6 +124,7 @@ I’ve transformed fear into passion.
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Reena-senthilkumar/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0832-flipping-an-image](https://github.com/Reena-senthilkumar/leetcode/tree/master/0832-flipping-an-image) |
 | [0837-most-common-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/0837-most-common-word) |
 | [0860-lemonade-change](https://github.com/Reena-senthilkumar/leetcode/tree/master/0860-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Reena-senthilkumar/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -401,6 +402,7 @@ I’ve transformed fear into passion.
 | [0345-reverse-vowels-of-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/Reena-senthilkumar/leetcode/tree/master/0832-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Reena-senthilkumar/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Reena-senthilkumar/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Reena-senthilkumar/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -504,6 +506,7 @@ I’ve transformed fear into passion.
 | [0461-hamming-distance](https://github.com/Reena-senthilkumar/leetcode/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Reena-senthilkumar/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Reena-senthilkumar/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/Reena-senthilkumar/leetcode/tree/master/0832-flipping-an-image) |
 | [1054-complement-of-base-10-integer](https://github.com/Reena-senthilkumar/leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Reena-senthilkumar/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [2159-two-out-of-three](https://github.com/Reena-senthilkumar/leetcode/tree/master/2159-two-out-of-three) |
@@ -640,6 +643,7 @@ I’ve transformed fear into passion.
 | ------- |
 | [0067-add-binary](https://github.com/Reena-senthilkumar/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/0415-add-strings) |
+| [0832-flipping-an-image](https://github.com/Reena-senthilkumar/leetcode/tree/master/0832-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Reena-senthilkumar/leetcode/tree/master/0874-backspace-string-compare) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Reena-senthilkumar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Reena-senthilkumar/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -751,6 +755,7 @@ I’ve transformed fear into passion.
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Reena-senthilkumar/leetcode/tree/master/0832-flipping-an-image) |
 | [3227-find-missing-and-repeated-values](https://github.com/Reena-senthilkumar/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Memoization
 |  |
