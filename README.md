@@ -281,6 +281,7 @@ I’ve transformed fear into passion.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Reena-senthilkumar/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Reena-senthilkumar/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2756-buy-two-chocolates](https://github.com/Reena-senthilkumar/leetcode/tree/master/2756-buy-two-chocolates) |
+| [2785-sort-vowels-in-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Reena-senthilkumar/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/Reena-senthilkumar/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -343,6 +344,7 @@ I’ve transformed fear into passion.
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Reena-senthilkumar/leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Reena-senthilkumar/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2785-sort-vowels-in-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Reena-senthilkumar/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2825-minimize-string-length](https://github.com/Reena-senthilkumar/leetcode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
