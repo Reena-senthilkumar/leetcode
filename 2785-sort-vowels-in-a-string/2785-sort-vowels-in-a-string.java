@@ -17,8 +17,9 @@ for (char c : s.toCharArray()) {
 char[] vowels = {'A','E','I','O','U','a','e','i','o','u'};
         StringBuilder sb=new StringBuilder();
         for(char c:s.toCharArray()){
+         
             if("aeiouAEIOU".indexOf(c)!=-1){
-                while(i<10 && freq[i]==0) i++;
+             while( freq[i]==0) i++;
                 sb.append(vowels[i]);
                 freq[i]--;
             }
