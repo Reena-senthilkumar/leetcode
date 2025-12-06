@@ -289,6 +289,7 @@ I’ve transformed fear into passion.
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Reena-senthilkumar/leetcode/tree/master/0006-zigzag-conversion) |
 | [0067-add-binary](https://github.com/Reena-senthilkumar/leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Reena-senthilkumar/leetcode/tree/master/0168-excel-sheet-column-title) |
