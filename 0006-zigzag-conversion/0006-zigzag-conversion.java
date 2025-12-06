@@ -9,10 +9,10 @@ class Solution {
         int temp=0;
         for(char c:s.toCharArray()){
             list.get(temp).append(c);
-             if(temp==0 || temp==numRows-1){
+            temp+=!row ? 1: -1;
+            if(temp==0 || temp==numRows-1){
                 row=!row;
             }
-            temp+=row ? 1: -1;
         }
         StringBuilder sb=new StringBuilder();
         for(StringBuilder b:list){
