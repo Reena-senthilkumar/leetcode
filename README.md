@@ -454,6 +454,7 @@ I’ve transformed fear into passion.
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Reena-senthilkumar/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Reena-senthilkumar/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1925-count-square-sum-triples](https://github.com/Reena-senthilkumar/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Reena-senthilkumar/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -648,6 +649,7 @@ I’ve transformed fear into passion.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Reena-senthilkumar/leetcode/tree/master/0204-count-primes) |
+| [1925-count-square-sum-triples](https://github.com/Reena-senthilkumar/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Reena-senthilkumar/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
