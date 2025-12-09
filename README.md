@@ -465,6 +465,7 @@ I’ve transformed fear into passion.
 | [2432-number-of-zero-filled-subarrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Reena-senthilkumar/leetcode/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Reena-senthilkumar/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Reena-senthilkumar/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Reena-senthilkumar/leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2857-total-distance-traveled](https://github.com/Reena-senthilkumar/leetcode/tree/master/2857-total-distance-traveled) |
 | [3055-maximum-odd-binary-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/3055-maximum-odd-binary-number) |
@@ -583,6 +584,7 @@ I’ve transformed fear into passion.
 | [2594-count-pairs-of-similar-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2634-minimum-common-value](https://github.com/Reena-senthilkumar/leetcode/tree/master/2634-minimum-common-value) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Reena-senthilkumar/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/Reena-senthilkumar/leetcode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2902-max-pair-sum-in-an-array) |
