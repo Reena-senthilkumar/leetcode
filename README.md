@@ -174,6 +174,7 @@ I’ve transformed fear into passion.
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Reena-senthilkumar/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2714-left-and-right-sum-differences](https://github.com/Reena-senthilkumar/leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [2748-number-of-beautiful-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2756-buy-two-chocolates](https://github.com/Reena-senthilkumar/leetcode/tree/master/2756-buy-two-chocolates) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2870-longest-alternating-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/2870-longest-alternating-subarray) |
@@ -246,6 +247,7 @@ I’ve transformed fear into passion.
 | [2594-count-pairs-of-similar-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Reena-senthilkumar/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Reena-senthilkumar/leetcode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2748-number-of-beautiful-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3019-furthest-point-from-origin](https://github.com/Reena-senthilkumar/leetcode/tree/master/3019-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/3324-split-the-array) |
@@ -467,6 +469,7 @@ I’ve transformed fear into passion.
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Reena-senthilkumar/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Reena-senthilkumar/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Reena-senthilkumar/leetcode/tree/master/2748-calculate-delayed-arrival-time) |
+| [2748-number-of-beautiful-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2857-total-distance-traveled](https://github.com/Reena-senthilkumar/leetcode/tree/master/2857-total-distance-traveled) |
 | [3055-maximum-odd-binary-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Reena-senthilkumar/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -585,6 +588,7 @@ I’ve transformed fear into passion.
 | [2634-minimum-common-value](https://github.com/Reena-senthilkumar/leetcode/tree/master/2634-minimum-common-value) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Reena-senthilkumar/leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2748-number-of-beautiful-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2825-minimize-string-length](https://github.com/Reena-senthilkumar/leetcode/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2902-max-pair-sum-in-an-array) |
@@ -753,6 +757,7 @@ I’ve transformed fear into passion.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Reena-senthilkumar/leetcode/tree/master/0204-count-primes) |
+| [2748-number-of-beautiful-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Union Find
 |  |
