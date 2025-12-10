@@ -451,6 +451,7 @@ I’ve transformed fear into passion.
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Reena-senthilkumar/leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Reena-senthilkumar/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/Reena-senthilkumar/leetcode/tree/master/1025-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Reena-senthilkumar/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -497,6 +498,7 @@ I’ve transformed fear into passion.
 | [0338-counting-bits](https://github.com/Reena-senthilkumar/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0392-is-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1025-divisor-game](https://github.com/Reena-senthilkumar/leetcode/tree/master/1025-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Prefix Sum
@@ -808,4 +810,12 @@ I’ve transformed fear into passion.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Reena-senthilkumar/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Reena-senthilkumar/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Reena-senthilkumar/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
