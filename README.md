@@ -318,6 +318,7 @@ I’ve transformed fear into passion.
 | [0953-reverse-only-letters](https://github.com/Reena-senthilkumar/leetcode/tree/master/0953-reverse-only-letters) |
 | [0965-unique-email-addresses](https://github.com/Reena-senthilkumar/leetcode/tree/master/0965-unique-email-addresses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1154-day-of-the-year](https://github.com/Reena-senthilkumar/leetcode/tree/master/1154-day-of-the-year) |
 | [1283-reformat-date](https://github.com/Reena-senthilkumar/leetcode/tree/master/1283-reformat-date) |
 | [1297-maximum-number-of-balloons](https://github.com/Reena-senthilkumar/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -453,6 +454,7 @@ I’ve transformed fear into passion.
 | [1018-largest-perimeter-triangle](https://github.com/Reena-senthilkumar/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/Reena-senthilkumar/leetcode/tree/master/1025-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1154-day-of-the-year](https://github.com/Reena-senthilkumar/leetcode/tree/master/1154-day-of-the-year) |
 | [1236-n-th-tribonacci-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Reena-senthilkumar/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
