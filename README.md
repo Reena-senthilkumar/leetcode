@@ -93,6 +93,7 @@ I’ve transformed fear into passion.
 | [0053-maximum-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Reena-senthilkumar/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Reena-senthilkumar/leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Reena-senthilkumar/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Reena-senthilkumar/leetcode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -434,6 +435,7 @@ I’ve transformed fear into passion.
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Reena-senthilkumar/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Reena-senthilkumar/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Reena-senthilkumar/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0171-excel-sheet-column-number) |
