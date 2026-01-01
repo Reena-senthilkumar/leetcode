@@ -90,6 +90,7 @@ I’ve transformed fear into passion.
 | ------- |
 | [0001-two-sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Reena-senthilkumar/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Reena-senthilkumar/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Reena-senthilkumar/leetcode/tree/master/0056-merge-intervals) |
@@ -263,6 +264,7 @@ I’ve transformed fear into passion.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Reena-senthilkumar/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Reena-senthilkumar/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Reena-senthilkumar/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/0169-majority-element) |
@@ -296,6 +298,7 @@ I’ve transformed fear into passion.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Reena-senthilkumar/leetcode/tree/master/0006-zigzag-conversion) |
+| [0049-group-anagrams](https://github.com/Reena-senthilkumar/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Reena-senthilkumar/leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Reena-senthilkumar/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -547,6 +550,7 @@ I’ve transformed fear into passion.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Reena-senthilkumar/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Reena-senthilkumar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/0169-majority-element) |
