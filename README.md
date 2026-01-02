@@ -317,6 +317,7 @@ I’ve transformed fear into passion.
 | [0648-replace-words](https://github.com/Reena-senthilkumar/leetcode/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Reena-senthilkumar/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/Reena-senthilkumar/leetcode/tree/master/0763-partition-labels) |
 | [0837-most-common-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/Reena-senthilkumar/leetcode/tree/master/0874-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Reena-senthilkumar/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -399,6 +400,7 @@ I’ve transformed fear into passion.
 | [0409-longest-palindrome](https://github.com/Reena-senthilkumar/leetcode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Reena-senthilkumar/leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Reena-senthilkumar/leetcode/tree/master/0860-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Reena-senthilkumar/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Reena-senthilkumar/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -423,6 +425,7 @@ I’ve transformed fear into passion.
 | [0345-reverse-vowels-of-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Reena-senthilkumar/leetcode/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/Reena-senthilkumar/leetcode/tree/master/0832-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Reena-senthilkumar/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Reena-senthilkumar/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -570,6 +573,7 @@ I’ve transformed fear into passion.
 | [0648-replace-words](https://github.com/Reena-senthilkumar/leetcode/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Reena-senthilkumar/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/0697-degree-of-an-array) |
+| [0763-partition-labels](https://github.com/Reena-senthilkumar/leetcode/tree/master/0763-partition-labels) |
 | [0837-most-common-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/0837-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0965-unique-email-addresses](https://github.com/Reena-senthilkumar/leetcode/tree/master/0965-unique-email-addresses) |
