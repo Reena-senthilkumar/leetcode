@@ -353,6 +353,7 @@ I’ve transformed fear into passion.
 | [2365-percentage-of-letter-in-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2365-percentage-of-letter-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Reena-senthilkumar/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2401-count-asterisks](https://github.com/Reena-senthilkumar/leetcode/tree/master/2401-count-asterisks) |
+| [2405-optimal-partition-of-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2476-check-distances-between-same-letters](https://github.com/Reena-senthilkumar/leetcode/tree/master/2476-check-distances-between-same-letters) |
@@ -408,6 +409,7 @@ I’ve transformed fear into passion.
 | [1448-maximum-69-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Reena-senthilkumar/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2405-optimal-partition-of-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Reena-senthilkumar/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2756-buy-two-chocolates](https://github.com/Reena-senthilkumar/leetcode/tree/master/2756-buy-two-chocolates) |
 | [3055-maximum-odd-binary-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/3055-maximum-odd-binary-number) |
@@ -593,6 +595,7 @@ I’ve transformed fear into passion.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Reena-senthilkumar/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Reena-senthilkumar/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2405-optimal-partition-of-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Reena-senthilkumar/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
