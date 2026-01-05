@@ -152,6 +152,7 @@ I’ve transformed fear into passion.
 | [1833-find-the-highest-altitude](https://github.com/Reena-senthilkumar/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Reena-senthilkumar/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1975-maximum-matrix-sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Reena-senthilkumar/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Reena-senthilkumar/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -408,6 +409,7 @@ I’ve transformed fear into passion.
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Reena-senthilkumar/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1448-maximum-69-number) |
+| [1975-maximum-matrix-sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Reena-senthilkumar/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2405-optimal-partition-of-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2405-optimal-partition-of-string) |
@@ -807,6 +809,7 @@ I’ve transformed fear into passion.
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Reena-senthilkumar/leetcode/tree/master/0832-flipping-an-image) |
+| [1975-maximum-matrix-sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/Reena-senthilkumar/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Memoization
 |  |
