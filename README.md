@@ -143,6 +143,7 @@ I’ve transformed fear into passion.
 | [1168-duplicate-zeros](https://github.com/Reena-senthilkumar/leetcode/tree/master/1168-duplicate-zeros) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Reena-senthilkumar/leetcode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Reena-senthilkumar/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Reena-senthilkumar/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1390-four-divisors](https://github.com/Reena-senthilkumar/leetcode/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Reena-senthilkumar/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -477,6 +478,7 @@ I’ve transformed fear into passion.
 | [1146-greatest-common-divisor-of-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/Reena-senthilkumar/leetcode/tree/master/1154-day-of-the-year) |
 | [1236-n-th-tribonacci-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Reena-senthilkumar/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Reena-senthilkumar/leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1390-four-divisors](https://github.com/Reena-senthilkumar/leetcode/tree/master/1390-four-divisors) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -830,6 +832,7 @@ I’ve transformed fear into passion.
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Reena-senthilkumar/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Reena-senthilkumar/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Bucket Sort
 |  |
