@@ -111,6 +111,7 @@ I’ve transformed fear into passion.
 | [0260-single-number-iii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -223,6 +224,7 @@ I’ve transformed fear into passion.
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Reena-senthilkumar/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-koko-eating-bananas](https://github.com/Reena-senthilkumar/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -523,6 +525,7 @@ I’ve transformed fear into passion.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Reena-senthilkumar/leetcode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Reena-senthilkumar/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0392-is-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
