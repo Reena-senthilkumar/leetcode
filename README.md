@@ -129,6 +129,7 @@ I’ve transformed fear into passion.
 | [0713-subarray-product-less-than-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0724-find-pivot-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Reena-senthilkumar/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/Reena-senthilkumar/leetcode/tree/master/0832-flipping-an-image) |
 | [0837-most-common-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/0837-most-common-word) |
@@ -532,6 +533,7 @@ I’ve transformed fear into passion.
 | [0392-is-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Reena-senthilkumar/leetcode/tree/master/0647-palindromic-substrings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0746-min-cost-climbing-stairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Reena-senthilkumar/leetcode/tree/master/1025-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
