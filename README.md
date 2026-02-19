@@ -330,6 +330,7 @@ I’ve transformed fear into passion.
 | [0648-replace-words](https://github.com/Reena-senthilkumar/leetcode/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Reena-senthilkumar/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/Reena-senthilkumar/leetcode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/Reena-senthilkumar/leetcode/tree/master/0763-partition-labels) |
 | [0837-most-common-word](https://github.com/Reena-senthilkumar/leetcode/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/Reena-senthilkumar/leetcode/tree/master/0874-backspace-string-compare) |
@@ -446,6 +447,7 @@ I’ve transformed fear into passion.
 | [0392-is-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Reena-senthilkumar/leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Reena-senthilkumar/leetcode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/Reena-senthilkumar/leetcode/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/Reena-senthilkumar/leetcode/tree/master/0832-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Reena-senthilkumar/leetcode/tree/master/0874-backspace-string-compare) |
