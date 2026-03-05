@@ -6,7 +6,7 @@ Today I understand logic, patterns, and complexities… and I genuinely enjoy so
 ---
 
 <h2>🚀 150+ Days of Consistency</h2>
-📈 380+ Problems Solved | 🏅🏅 Earned 2 Badges | 🔥 Strong Daily Streak
+📈 380+ Problems Solved | 🏅🏅 Earned 4 Badges | 🔥 Strong Daily Streak
 📦 My Workflow
 🔹 I ask ChatGPT for LeetCode problems with direct links  
 🔹 I try solving them completely on my own  
