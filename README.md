@@ -353,6 +353,7 @@ I’ve transformed fear into passion.
 | [1714-rearrange-spaces-between-words](https://github.com/Reena-senthilkumar/leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Reena-senthilkumar/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Reena-senthilkumar/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1894-merge-strings-alternately](https://github.com/Reena-senthilkumar/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Reena-senthilkumar/leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
