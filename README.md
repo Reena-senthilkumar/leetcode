@@ -86,8 +86,8 @@ I’ve transformed fear into passion.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Reena-senthilkumar/leetcode/tree/master/0049-group-anagrams) |
@@ -222,8 +222,8 @@ I’ve transformed fear into passion.
 | [4008-restore-finishing-order](https://github.com/Reena-senthilkumar/leetcode/tree/master/4008-restore-finishing-order) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Reena-senthilkumar/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -235,8 +235,8 @@ I’ve transformed fear into passion.
 | [2634-minimum-common-value](https://github.com/Reena-senthilkumar/leetcode/tree/master/2634-minimum-common-value) |
 | [3790-fruits-into-baskets-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Reena-senthilkumar/leetcode/tree/master/0299-bulls-and-cows) |
@@ -272,8 +272,8 @@ I’ve transformed fear into passion.
 | [4053-majority-frequency-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/4053-majority-frequency-characters) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Reena-senthilkumar/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Reena-senthilkumar/leetcode/tree/master/0056-merge-intervals) |
@@ -306,8 +306,8 @@ I’ve transformed fear into passion.
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/Reena-senthilkumar/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Reena-senthilkumar/leetcode/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/Reena-senthilkumar/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Reena-senthilkumar/leetcode/tree/master/0067-add-binary) |
@@ -401,8 +401,8 @@ I’ve transformed fear into passion.
 | [3893-generate-tag-for-video-caption](https://github.com/Reena-senthilkumar/leetcode/tree/master/3893-generate-tag-for-video-caption) |
 | [4053-majority-frequency-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/4053-majority-frequency-characters) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -411,8 +411,8 @@ I’ve transformed fear into passion.
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Reena-senthilkumar/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0055-jump-game](https://github.com/Reena-senthilkumar/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -434,8 +434,8 @@ I’ve transformed fear into passion.
 | [3055-maximum-odd-binary-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/3055-maximum-odd-binary-number) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Reena-senthilkumar/leetcode/tree/master/3334-apple-redistribution-into-boxes) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Reena-senthilkumar/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Reena-senthilkumar/leetcode/tree/master/0141-linked-list-cycle) |
@@ -464,8 +464,8 @@ I’ve transformed fear into passion.
 | [2634-minimum-common-value](https://github.com/Reena-senthilkumar/leetcode/tree/master/2634-minimum-common-value) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0066-plus-one](https://github.com/Reena-senthilkumar/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Reena-senthilkumar/leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Reena-senthilkumar/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -525,8 +525,8 @@ I’ve transformed fear into passion.
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Reena-senthilkumar/leetcode/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3994-find-the-least-frequent-digit](https://github.com/Reena-senthilkumar/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Reena-senthilkumar/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -542,8 +542,8 @@ I’ve transformed fear into passion.
 | [1236-n-th-tribonacci-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Reena-senthilkumar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Reena-senthilkumar/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -554,8 +554,8 @@ I’ve transformed fear into passion.
 | [3311-ant-on-the-boundary](https://github.com/Reena-senthilkumar/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Reena-senthilkumar/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/Reena-senthilkumar/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/0137-single-number-ii) |
@@ -582,8 +582,8 @@ I’ve transformed fear into passion.
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Reena-senthilkumar/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Reena-senthilkumar/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -663,20 +663,20 @@ I’ve transformed fear into passion.
 | [4053-majority-frequency-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/4053-majority-frequency-characters) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Reena-senthilkumar/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Reena-senthilkumar/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/Reena-senthilkumar/leetcode/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/Reena-senthilkumar/leetcode/tree/master/0692-top-k-frequent-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Reena-senthilkumar/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Reena-senthilkumar/leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Reena-senthilkumar/leetcode/tree/master/0183-customers-who-never-order) |
@@ -690,8 +690,8 @@ I’ve transformed fear into passion.
 | [1908-recyclable-and-low-fat-products](https://github.com/Reena-senthilkumar/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Reena-senthilkumar/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Reena-senthilkumar/leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -704,12 +704,12 @@ I’ve transformed fear into passion.
 | [2470-removing-stars-from-a-string](https://github.com/Reena-senthilkumar/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Reena-senthilkumar/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Reena-senthilkumar/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/Reena-senthilkumar/leetcode/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/Reena-senthilkumar/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -719,8 +719,8 @@ I’ve transformed fear into passion.
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Reena-senthilkumar/leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0067-add-binary](https://github.com/Reena-senthilkumar/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Reena-senthilkumar/leetcode/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/Reena-senthilkumar/leetcode/tree/master/0832-flipping-an-image) |
@@ -743,132 +743,132 @@ I’ve transformed fear into passion.
 | [3790-fruits-into-baskets-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3893-generate-tag-for-video-caption](https://github.com/Reena-senthilkumar/leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Reena-senthilkumar/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Reena-senthilkumar/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0231-power-of-two](https://github.com/Reena-senthilkumar/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Reena-senthilkumar/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Reena-senthilkumar/leetcode/tree/master/0342-power-of-four) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Reena-senthilkumar/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Reena-senthilkumar/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Reena-senthilkumar/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Reena-senthilkumar/leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Reena-senthilkumar/leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0100-same-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Reena-senthilkumar/leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Reena-senthilkumar/leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Reena-senthilkumar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Reena-senthilkumar/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Reena-senthilkumar/leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Reena-senthilkumar/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Reena-senthilkumar/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/Reena-senthilkumar/leetcode/tree/master/0204-count-primes) |
 | [2748-number-of-beautiful-pairs](https://github.com/Reena-senthilkumar/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Reena-senthilkumar/leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0274-h-index](https://github.com/Reena-senthilkumar/leetcode/tree/master/0274-h-index) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Reena-senthilkumar/leetcode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Reena-senthilkumar/leetcode/tree/master/0692-top-k-frequent-words) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Reena-senthilkumar/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Reena-senthilkumar/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Reena-senthilkumar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/Reena-senthilkumar/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0832-flipping-an-image](https://github.com/Reena-senthilkumar/leetcode/tree/master/0832-flipping-an-image) |
 | [1975-maximum-matrix-sum](https://github.com/Reena-senthilkumar/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/Reena-senthilkumar/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/Reena-senthilkumar/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Reena-senthilkumar/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Reena-senthilkumar/leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Reena-senthilkumar/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Reena-senthilkumar/leetcode/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Reena-senthilkumar/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Reena-senthilkumar/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1025-divisor-game](https://github.com/Reena-senthilkumar/leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1025-divisor-game](https://github.com/Reena-senthilkumar/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
