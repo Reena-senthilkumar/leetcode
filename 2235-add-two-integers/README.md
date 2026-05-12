@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/add-two-integers">2235. Add Two Integers</a></h2><h3>Easy</h3><hr>Given two integers <code>num1</code> and <code>num2</code>, return <em>the <strong>sum</strong> of the two integers</em>.
+<h2><a href="https://leetcode.com/problems/add-two-integers">2383. Add Two Integers</a></h2><h3>Easy</h3><hr>Given two integers <code>num1</code> and <code>num2</code>, return <em>the <strong>sum</strong> of the two integers</em>.
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
